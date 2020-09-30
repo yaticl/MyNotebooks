@@ -1,5 +1,5 @@
 # MyNotebooks
 
-Repository for my Jupyter notebooks.
+我的 Jupyter notebooks 倉庫.
 
-* Dependency: [Anaconda distribution](https://www.anaconda.com/products/individual)
+* 環境: [Anaconda distribution](https://www.anaconda.com/products/individual)
